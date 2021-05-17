@@ -1,0 +1,28 @@
+@import url(banner.css);
+@import url(blog.css);
+@import url(footer.css);
+@import url(contacto.css);
+
+/*general*/
+* {
+    margin:0px;
+width: 100%;
+height: auto;}
+
+body {
+    font-family: 'Jost', sans-serif;
+}
+
+.contenedor {
+    width: 900px;
+    margin: 60px auto;}
+
+h1, h2{
+    font-family: 'Righteous', cursive;
+}
+
+
+section{
+    width: 100%;
+    margin-bottom: 25px;
+}
