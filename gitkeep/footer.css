@@ -1,0 +1,26 @@
+
+.footer{
+	background:#333;
+	color: #fff;
+}
+
+footer{
+	padding: 10px;
+}
+
+footer p{
+	margin: 0;
+	text-align: center;
+}
+
+footer a{
+	text-decoration: none;
+	text-align: center;
+}
+
+footer img{
+	width: 25px;
+	height: 25px;
+	margin: 3px;
+}
+
